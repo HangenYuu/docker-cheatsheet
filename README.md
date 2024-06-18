@@ -3,8 +3,14 @@
 
 This is the Markdown version of the official Docker cheatsheet, optimized for copy and paste! All rights belong to Docker.
 
-<!-- START doctoc -->
-<!-- END doctoc -->
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**
+
+- [Installation](#installation)
+- [Images CLI](#images-cli)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 # Installation
 - Docker Desktop is the official and easiest way to install a bundle of Docker Engine and other useful components: https://docs.docker.com/desktop/install
