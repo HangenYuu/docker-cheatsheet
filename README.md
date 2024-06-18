@@ -1,7 +1,10 @@
-# Markdown version of the official Docker cheatsheet
+# Markdown version of the official Docker cheatsheet <!-- omit from toc -->
 > The official cheatsheet can be found [here](https://docs.docker.com/get-started/docker_cheatsheet.pdf).
 
 This is the Markdown version of the official Docker cheatsheet, optimized for copy and paste! All rights belong to Docker.
+
+<!-- START doctoc -->
+<!-- END doctoc -->
 
 # Installation
 - Docker Desktop is the official and easiest way to install a bundle of Docker Engine and other useful components: https://docs.docker.com/desktop/install
@@ -20,7 +23,10 @@ docker build -t <image_name>
 - Build an Image from a Dockerfile without the cache
 ```bash
 docker build -t <image_name> . --no-cache
-```
+```- [Markdown version of the official Docker cheatsheet](#markdown-version-of-the-official-docker-cheatsheet)
+- [Installation](#installation)
+- [Images CLI](#images-cli)
+
 - List local images
 ```bash
 docker images
