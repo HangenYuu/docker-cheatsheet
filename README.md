@@ -1,5 +1,5 @@
 # Markdown version of the official Docker cheatsheet <!-- omit from toc -->
-> The official cheatsheet can be found [here](https://docs.docker.com/get-started/docker_cheatsheet.pdf).
+> The official PDF cheatsheet can be found [here](https://docs.docker.com/get-started/docker_cheatsheet.pdf).
 
 This is the Markdown version of the official Docker cheatsheet, optimized for copy and paste! All rights belong to Docker.
 
